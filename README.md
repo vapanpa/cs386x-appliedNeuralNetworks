@@ -5,23 +5,4 @@ CS386X - Applied Neural Networks taken in AY24-2
 MAJ Sarah Smith
 
 ## Description:
-Architecture of high-scale Internet services, using well-known case studies like Google Search, Netflix, and Uber.  System at these scales have many custom-built components, but they also contain many common building blocks that can be reused in other systems.  Students will apply lessons learned from case studies to build software systems in the cloud capable of scaling to millions of users, and they will do so with surprisingly little code.
-
-
-The course will cover:
-- Traditional 3-tiered software service design (frontend, backend, and database).
-- High-scale software building blocks like:
-• SQL and NoSQL databases
-• distributed file systems
-• message queues
- • caches
-• content delivery networks
-• load balancers
-• serverless functions
-- Software deployment and operations (DevOps) technologies and practices like:
-• build and deployment automation (continuous integration)
-• release staging
-• virtual machines
-• containers
-• centralized logging
-• performance monitoring
+This course builds solely on basic programming skills to introduce the field of deep learning, neural network architectures, and learning algorithms in a way accessible to cadets pursuing a variety of majors. Cadets will develop an understanding of emerging trends and research in the field. Major emphasis is placed on applying neural networks to problems in a variety of domains by training and tuning models for tasks such as pattern recognition, time series prediction, data mining, and optimization. Hands-on exercises, programming assignments, and case studies will provide cadets with valuable experience using state-of-the-art software libraries and pre-trained models (PTMs). The course culminates in an open-ended project of the cadets' choosing but intended to be an application of course content to cadets' personal research projects.
